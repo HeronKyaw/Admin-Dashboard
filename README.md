@@ -1,4 +1,8 @@
-#Admin Dashboard
+# Admin Dashboard (UI)
+Overview
+- A small project for responsive Admin dashboard (UI). Created only with the components of Bootstrap5.
 
-Admin Dashboard with UI only. 
-Mainly used HTML and Bootstrap, and very tiny amount of CSS.
+Technology
+- HTML5
+- CSS3
+- Bootstrap5
